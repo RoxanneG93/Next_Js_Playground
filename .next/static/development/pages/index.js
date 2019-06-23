@@ -11687,6 +11687,7 @@ var Hello = function Hello(_ref) {
       __self: this
     }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(next_Link__WEBPACK_IMPORTED_MODULE_3___default.a, {
       href: "/post?id=".concat(post.id),
+      as: "/p/".concat(post.id),
       __source: {
         fileName: _jsxFileName,
         lineNumber: 42
